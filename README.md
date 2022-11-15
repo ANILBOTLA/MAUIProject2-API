@@ -1,6 +1,3 @@
-# API
-
-
 Subject: Cross Mobile Platform Development
 Project 2: Calculator with API Connection
 Team members: -
@@ -12,14 +9,13 @@ Team members: -
 In this project we built Calculator with API Connection.
 Below are our individual works.
 1. Anil works on API creation and JSON generation then connected API & APP..
-#4309f86b2a00536be860228d7371506d0278e856 (Added expressions and optrions to API)
-#ab9e608009f46d43cad58d62f19353864cc0cfe3(Proper model updation)
-#ab9e608009f46d43cad58d62f19353864cc0cfe3(Error fix of todo API)
-#4309f86b2a00536be860228d7371506d0278e856(Skelton of API)
+#60dad1c2a70213eed89a7f00daa7b57c4cba22b4(Updated the buttons to display the correct and wrong options)
+#4108e566887d905469db75dd8ffe3cb36b4910e9:(Conmnection estrablishment)API Talks with APP and added models in APP
+#7202b0f4deea4d4a67e471a490df30c481b5c31f(JSON to list Convertion)
 
 
-
-
+2. Harish Reddy added all the flyouts and navigations and display of correct and wrong answers.
+3. Srinivasa Reddy works on API connection.
 
 
 
@@ -36,3 +32,5 @@ https://github.com/HarishReddyNadavaluru/MAUIPro2
 https://github.com/ANILBOTLA/MAUICalculator
 
 youtube link: -https://youtu.be/_DtJVxld1-g
+
+youtube link for API Connection inclusion https://youtu.be/MLasVpgpaRA
